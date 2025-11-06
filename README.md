@@ -3,8 +3,7 @@ This project provides two simple PowerShell scripts and a step-by-step guide to 
 
 # 1. The Script Files
 Create a folder on your PC named C:\Scripts and save the following two files inside it.
-
-# Dark.ps1 (Dark Mode) Light.ps1 (Light Mode)
+Dark.ps1 (Dark Mode) Light.ps1 (Light Mode) (You can find the two files in the folder SCRIPTS)
 
 # 2. Setting up the Task Scheduler
 
